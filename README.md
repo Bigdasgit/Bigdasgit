@@ -18,6 +18,14 @@
 - Recommender Systems, Multimedia Information Retrieval, and Trust Management
 - Distributed Deep Learning, Graph Engines Analysis, and SSD-based Big Data Engines
 
+### Our repositories
+- [Told You I Didn't Like It: Exploiting Uninteresting Items for Effective Collaborative Filtering](https://github.com/Bigdasgit/Zero-Injection)
+- [CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks](https://github.com/Bigdasgit/CFGAN)
+- [gOCCF: Graph-Theoretic One-Class Collaborative Filtering Based on Uninteresting Items](https://github.com/Bigdasgit/gOCCF)
+- [ASiNE: Adversarial Signed Network Embedding](https://github.com/Bigdasgit/ASiNE)
+- [Look Before You Leap: Confirming Edge Signs in Random Walk with Restart for Personalized Node Ranking in Signed Networks](https://github.com/Bigdasgit/OBOE)
+- [Directed Network Embedding with Virtual Negative Edges](https://github.com/Bigdasgit/divine)
+- [Linear, or Non-Linear, That is the Question!](https://github.com/Bigdasgit/HMLET)
 
 
 <div align=center>
