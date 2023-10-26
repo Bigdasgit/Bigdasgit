@@ -26,9 +26,10 @@
 - Look Before You Leap: Confirming Edge Signs in Random Walk with Restart for Personalized Node Ranking in Signed Networks [(OBOE)](https://github.com/Bigdasgit/OBOE)
 - Directed Network Embedding with Virtual Negative Edges [(DIVINE)](https://github.com/Bigdasgit/divine)
 - Linear, or Non-Linear, That is the Question! [(HMLET)](https://github.com/Bigdasgit/HMLET)
+- MONET: Modality-Embracing Graph Convolutional Network and Target-Aware Attention for Multimedia Recommendation [(MONET)](https://github.com/Bigdasgit/MONET)
 
 
 <div align=center>
 
-[![Website](https://img.shields.io/website?label=Lab%20website&up_message=BigDas&url=http://www.agape.hanyang.ac.kr/)](http://www.agape.hanyang.ac.kr/)
+[![Website](https://img.shields.io/website?label=Lab%20website&up_message=BigDas&url=https://bigdas.hanyang.ac.kr/)](https://bigdas.hanyang.ac.kr/)
 </div>
