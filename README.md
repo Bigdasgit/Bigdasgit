@@ -6,7 +6,7 @@
 
 ### Big Data Science Laboratory
 - [Department of Computer Science, Hanyang University](https://software.hanyang.ac.kr/)
-- Professor: [Sang-Wook Kim](http://www.agape.hanyang.ac.kr/members/prof)
+- Professor: [Sang-Wook Kim](https://bigdas.hanyang.ac.kr/sang-wook/)
 - Location: Hanyang University 222 Wangsimni-ro, Seongdong-gu, Seoul 133-791, Korea
   - Student Labs
     - H304(R&D Building) 212, 504, and 710,  (Tel. 02-2220-4566)
